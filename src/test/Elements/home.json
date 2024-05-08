@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "pageInfo": {
+        "pageName": "home",
+        "parent": "",
+        "waitelement": ""
+      },
+      "elements": [
+        {
+          "main_button": "//a[contains(text(),'Home')]"
+        },
+        {
+          "products_button": "//a[contains(text(),'Products')]"
+        }
+      ]
+    }
+  ]
+}

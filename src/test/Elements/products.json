@@ -1,0 +1,44 @@
+{
+  "pages": [
+    {
+      "pageInfo": {
+        "pageName": "products",
+        "parent": "",
+        "waitelement": ""
+      },
+      "elements": [
+        {
+          "first_product": "//div[@class='single-products']"
+        },
+        {
+          "second_product": "(//div[@class='single-products'])[2]"
+        },
+        {
+          "add_to_cart_button": "//div[@class='product-overlay']//*[contains(text(),\"Add to cart\")]"
+        },
+        {
+          "second_add_to_cart_button": "(//div[@class='product-overlay']//*[contains(text(),\"Add to cart\")])[2]"
+        },
+        {
+          "continue_shopping_button": "//button[contains(text(),'Continue Shopping')]"
+        },
+        {
+          "view_card_text_button": "//u[contains(text(),'View Cart')]"
+        },
+        {
+          "first_product_price": "//*[contains(text(), 'Add to cart')]/preceding-sibling::h2"
+        },
+        {
+          "first_product_name": "//*[contains(text(), 'Add to cart')]/preceding-sibling::p"
+        },
+        {
+          "second_product_price": "(//*[contains(text(), 'Add to cart')])[3]/preceding-sibling::h2"
+        },
+        {
+          "second_product_name": "(//*[contains(text(), 'Add to cart')])[3]/preceding-sibling::p"
+        }
+      ]
+    }
+  ]
+}
+

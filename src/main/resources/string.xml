@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- Error Text -->
+    <string name="musteri portali">Müşteri Portalı</string>
+    <string name="simkart degisikligi gecmisi linki">Simkart Geçmişi</string>
+    <string name="musteri dogrulama islemi texti">Müşteri doğrulama işlemi</string>
+    <string name="islem tarihi texti">İşlem Tarih</string>
+    <string name="satışçı text">Satışçı</string>
+    <string name="bayi kodu text">Bayi Kodu</string>
+    <string name="gerekçe text">Gerekçe</string>
+    <string name="eski simkart seri no texti">Eski Simkart Seri No</string>
+    <string name="yeni simkart seri no texti">Yeni Simkart Seri No</string>
+    <string name="ok butonu">OK</string>
+    <string name="kullanici girisi text">Kullanıcı Girişi</string>
+    <string name="kullanici kendisi text">Kullanıcı Girişi</string>
+    <string name="kullaadres girisi text">Adres Girişi</string>
+    <string name="chipped identity card text">TC Cipli Kimlik Karti</string>
+    <string name="old identity card text">TC Nüfus Cüzdanı</string>
+    <string name="foreign identity card text">TC Yabancı Kimlik Belgesi</string>
+    <string name="tc passport new type identity card text">TC Pasaportu: Yeni Tip Çipli</string>
+    <string name="tc passport old type navy blue identity card text">TC Pasaportu: Eski Tip Lacivert</string>
+    <string name="foreigner passport">Yabancı Pasaport</string>
+    <string name="fly attendant passport">Uçuş Mürettebatı Belgesi</string>
+    <string name="marine passport">Gemi Adamı Cüzdanı</string>
+    <string name="nato command passport">NATO Emri Belgesi</string>
+    <string name="traveling passport">Seyahat Belgesi</string>
+    <string name="enter tc number error text">TC Kimlik No giriniz.</string>
+    <string name="tc number missing character error text">Kimlik numarası 11 karakter olmalıdır.</string>
+    <string name="kimlik bilgileri text">Kimlik Bilgileri</string>
+</resources>
+
